@@ -4,3 +4,4 @@ faiss-cpu
 google-genai
 python-dotenv
 numpy
+torchvision
