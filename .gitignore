@@ -21,9 +21,6 @@ ENV/
 # ── Data files (large, generated, not source code) ───────────────────────────
 data/audio.mp3
 data/transcript_raw.json
-data/chunks.json
-data/faiss_index.bin
-data/chunk_metadata.pkl
 
 # ── Whisper model cache ───────────────────────────────────────────────────────
 *.pt
@@ -60,3 +57,4 @@ logs/
 dist/
 build/
 *.egg-info/
+
